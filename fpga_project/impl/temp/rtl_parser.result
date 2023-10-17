@@ -1,0 +1,46 @@
+[
+ {
+  "InstFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "TOP",
+  "ModuleFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "TOP",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/top.v",
+    "InstLine" : 19,
+    "InstName" : "chip_pll_ascii",
+    "ModuleFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/top.v",
+    "InstLine" : 25,
+    "InstName" : "ascii",
+    "ModuleFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/ascii_table_cpp_generated.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "ascii_table_cpp_generated",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/ascii_table_cpp_generated.v",
+      "InstLine" : 43,
+      "InstName" : "promAscii",
+      "ModuleFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/gowin_prom/gowin_prom_ascii.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "Gowin_pROM_ascii"
+     },
+     {
+      "InstFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/ascii_table_cpp_generated.v",
+      "InstLine" : 52,
+      "InstName" : "inst_rom",
+      "ModuleFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/rom_0.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "rom_0"
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,32 @@
+{
+ "Files" : [
+  {
+   "Path" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/ascii_table_cpp_generated.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/gowin_prom/gowin_prom_ascii.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/gowin_rpll/gowin_rpll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/src/rom_0.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/Armin/Desktop/Isam_slova_konacno/fpga_project/impl/temp/rtl_parser.result",
+ "Top" : "TOP",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_2008"
+}

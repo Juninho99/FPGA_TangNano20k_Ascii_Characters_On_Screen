@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Module name="TOP">
-    <SubModule name="chip_pll_ascii"/>
-    <SubModule name="ascii" Register="50" Alu="55" Lut="156" Dsp="1">
-        <SubModule name="promAscii" Bsram="1"/>
-        <SubModule name="inst_rom" Lut="45"/>
-    </SubModule>
-</Module>
